@@ -31,7 +31,7 @@ function App() {
         <div className="nav-center">
           <h1>overreacted</h1>
           <button className="btn" onClick={toggleTheme}>
-            toggle
+            Toggle Magic
           </button>
         </div>
       </nav>
